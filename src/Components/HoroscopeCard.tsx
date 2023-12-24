@@ -1,5 +1,5 @@
 import {Col, Row} from "antd";
-//import {fetchTodayHoroscope} from "../Services/Horoscopo.tsx";
+//import {fetchTodayHoroscope} from "../Services/ConsumeApis.tsx";
 interface apiData{
     name:string;
     text:string;
